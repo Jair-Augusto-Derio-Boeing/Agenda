@@ -2,7 +2,8 @@
 public class Principal {
 
 	public static void main(String[] args) {
-		Menu.Menu();
-	}
+		nomearCtt.contato();
+		numeroDoCtt.numero();
+		}
 
 }
